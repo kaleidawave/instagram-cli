@@ -20,3 +20,5 @@ instagram-cli
 It will lead you through logging in, selecting a photo and adding a caption.
 
 Also follow me [@kaleidawave](https://www.instagram.com/kaleidawave/) ;)
+
+*use at your own risk*
