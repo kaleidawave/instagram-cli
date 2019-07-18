@@ -1,0 +1,20 @@
+{
+  "name": "instagram-cli",
+  "version": "1.0.0",
+  "description": "instagram upload from cli",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "kaleidawave",
+  "bin": "./index.js",
+  "dependencies": {
+    "chalk": "^2.4.2",
+    "inquirer": "^6.2.2",
+    "instagram-private-api": "^0.6.8"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kaleidawave/instagram-cli"
+  }
+}
