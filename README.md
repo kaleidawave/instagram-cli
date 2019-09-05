@@ -8,6 +8,7 @@ Clone the repo
 
 ```
 git clone https://github.com/kaleidawave/instagram-cli
+cd instagram-cli
 npm link
 ```
 
