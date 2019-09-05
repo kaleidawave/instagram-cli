@@ -4,15 +4,14 @@
   "description": "instagram upload from cli",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node index.js"
   },
   "author": "kaleidawave",
   "bin": "./index.js",
   "dependencies": {
     "chalk": "^2.4.2",
     "inquirer": "^6.2.2",
-    "instagram-private-api": "^0.6.8",
-    "lodash.merge": ">=4.6.2"
+    "instagram-private-api": "^1.22.0"
   },
   "repository": {
     "type": "git",
